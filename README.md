@@ -1,1 +1,1 @@
-# latinventas-backend
+# LatinVentas (Back-End)
